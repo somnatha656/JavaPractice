@@ -1,6 +1,6 @@
 package inheritance2;
 
-public class ChildClass extends FatherClass{
+public class ChildA extends FatherClass{
 
     public static void main(String[] args) {
         GrandFatherClass.staticSubtraction();
